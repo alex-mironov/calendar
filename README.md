@@ -1,4 +1,4 @@
 calendar
 ========
 
-Simple js google-like calendar
+Simple calendar widget
